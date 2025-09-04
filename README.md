@@ -1,0 +1,1 @@
+Two projects are available here. One, focused on the Netflix data, is solely dedicated to data cleaning, while the Blinkit dashboard project is dedicated to creating an interactive dashboard from scratch.
